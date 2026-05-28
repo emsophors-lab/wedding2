@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Guest Registration and Manager",
+  "description": "A comprehensive wedding guest registration, check-in, and gift tracking application with guest, admin, and host dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
